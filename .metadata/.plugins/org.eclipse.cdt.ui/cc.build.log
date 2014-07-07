@@ -1,0 +1,7 @@
+00:40:09 **** Clean-only build of configuration Release for project cc ****
+make clean 
+rm -rf  ./src/cc.o  ./src/cc.d  cc
+ 
+
+00:40:09 Build Finished (took 60ms)
+

@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+/**
+ * wc
+ */
+int main(void){
+	printf("hello world);
+
+}
